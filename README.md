@@ -5,10 +5,12 @@
 
 Faça um jogo da FORCA!
 
-O programa guarda um vetor de 30 palavras com no máximo 20 letras e sorteia uma das palavras. Ele imprime na tela a palavra usando o caracter '_' no lugar de cada letra, ou seja:
+O programa guarda um vetor de 30 palavras com no máximo 20 letras e sorteia uma das palavras. <br/> 
+Ele imprime na tela a palavra usando o caracter '_' no lugar de cada letra, ou seja: <br/>
+<br/>
 Se a palavra sorteada for PROGRAMA, o programa vai mostrar a palavra como:
 
-_ _ _ _ _ _ _ _ _ _ _
+" _ _ _ _ _ _ _ _ _ _ _ "
 
 O jogador tem 6 vidas para tentar acertar a palavra. O programa substituirá no lugar do caracter '_' as letras corretas, ou seja, se o jogador digitou 'A', o programa mostrará:
 
@@ -22,7 +24,7 @@ E assim por diante...
 
 As vidas devem ser mostradas como um "bonequinho" pindurado em uma forca, começando pela "cabeça" e terminando nos pés, mais ou menos assim:
 
-_ _ _ _
+._ _ _ _
 
 | |
 
@@ -32,11 +34,12 @@ _ _ _ _
 
 | | |
 
-|_ _ _ _ __
+|_ _ _ _ __.
 
 
-Cada vez que uma letra é errada, o programa mostra uma parte do boneco, até que todas sejam mostradas e o jogador morra.
-Se o jogador ganhar, mostrará a mensagem "Parabens! Voce escapou com vida!", caso contrario, mostrará "Voce morreu!". Depois o programa pergunta se o jogador deseja jogar novamente.
+Cada vez que uma letra é errada, o programa mostra uma parte do boneco, até que todas sejam mostradas e o jogador morra. <br/>
+Se o jogador ganhar, mostrará a mensagem "Parabens! Voce escapou com vida!", caso contrario, mostrará "Voce morreu!". <br/>
+Depois o programa pergunta se o jogador deseja jogar novamente.
 Enquanto o jogo estiver rodando, a mesma palavra não poderá ser sorteada novamente.
 
 # Informações:
