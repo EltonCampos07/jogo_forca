@@ -1,5 +1,5 @@
 # jogo_da_memoria
-🚀 Jogo desenvolvido na faculdade (2° período do curso ciência da computação 👨‍💻) 🚀
+🚀 Jogo desenvolvido na faculdade (3° período do curso ciência da computação 👨‍💻) 🚀
 
 # Desafio:
 
